@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante :juan manuel prieto corrdor
 
-Codigo :
+Codigo :245573
 
 **Descripción del Problema:**
 
